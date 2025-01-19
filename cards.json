@@ -1,0 +1,182 @@
+[
+  {
+    "phase": "KANTO",
+    "cards": [
+      { "name": "Officer Draco (Arcanine)" },
+      {
+        "name": "Gengar Spike",
+        "image": "assets/img/cards/gengar.png",
+        "type": "rare"
+      },
+      { "name": "Electrode Meeple" },
+      {
+        "name": "Lickitung Leon",
+        "image": "assets/img/cards/lickitung.png",
+        "type": "common"
+      },
+      { "name": "Porygon(?) Sprout" },
+      { "name": "Snorlax Sandy" }
+    ]
+  },
+  {
+    "phase": "JOHTO",
+    "cards": [
+      { "name": "Pichu Bonnie" },
+      {
+        "name": "Togepi Darryl",
+        "image": "assets/img/cards/togepi.png",
+        "type": "common"
+      },
+      { "name": "Suicune Otis" }
+    ]
+  },
+  {
+    "phase": "HOENN",
+    "cards": [
+      { "name": "Blaziken Fang" },
+      { "name": "Swampert Sam" },
+      { "name": "Gardevoir Piper" },
+      { "name": "Mawile Chester" },
+      { "name": "Banette Colette" },
+      {
+        "name": "Glalie Ollie",
+        "image": "assets/img/cards/glalie.png",
+        "type": "uncommon"
+      },
+      {
+        "name": "Salamence Janet",
+        "image": "assets/img/cards/salamence.png",
+        "type": "rare"
+      },
+      {
+        "name": "Registeel Pearl",
+        "image": "assets/img/cards/registeel.png",
+        "type": "rare"
+      },
+      { "name": "Team Magma Buzz" },
+      {
+        "name": "Team Aqua Hank",
+        "image": "assets/img/cards/kyogre.png",
+        "type": "rare"
+      },
+      {
+        "name": "Deoxys Lily",
+        "image": "assets/img/cards/deoxys.png",
+        "type": "rare"
+      }
+    ]
+  },
+  {
+    "phase": "Sinnoh",
+    "cards": [
+      { "name": "Drifloon/Drifblim Tick" },
+      { "name": "Mismagius Chuck" },
+      { "name": "Mamoswine Gale" },
+      {
+        "name": "R-o-T-o-m",
+        "image": "assets/img/cards/rotom.png",
+        "type": "uncommon"
+      },
+      {
+        "name": "Darkrai Gray",
+        "image": "assets/img/cards/darkrai.png",
+        "type": "rare"
+      }
+    ]
+  },
+  {
+    "phase": "Unova",
+    "cards": [
+      { "name": "Buster Emboar" },
+      { "name": "Liepard Kit" },
+      { "name": "Drillbur/Excadrill Moe" },
+      {
+        "name": "Reuniclus Squeak",
+        "image": "assets/img/cards/reuniclus.png",
+        "type": "rare"
+      },
+      { "name": "Vanillite Lou" },
+      {
+        "name": "Frillish Willow",
+        "image": "assets/img/cards/frillish.png",
+        "type": "uncommon"
+      },
+      {
+        "name": "Joltik Charlie",
+        "image": "assets/img/cards/joltik.png",
+        "type": "common"
+      },
+      {
+        "name": "ChandeLola",
+        "image": "assets/img/cards/chandelure.png",
+        "type": "rare"
+      },
+      { "name": "Volcarona Charlie" },
+      { "name": "Reshiram & Zekrom Larry & Lawrie" }
+    ]
+  },
+  {
+    "phase": "Kalos",
+    "cards": [
+      { "name": "Braixen Mandy" },
+      { "name": "Aegislash Rico" },
+      { "name": "Zygarde Surge" },
+      { "name": "Diancie Jacky" },
+      { "name": "Hoopa Gene" }
+    ]
+  },
+  {
+    "phase": "Alola",
+    "cards": [
+      { "name": "Decidueye Angelo" },
+      { "name": "Incineroar El Primo" },
+      { "name": "Charja-Bit" },
+      { "name": "Mareanie E.M.Z." },
+      { "name": "Mimikyu Shade" },
+      { "name": "Hakamo-o Colette" },
+      { "name": "Dhelmise Penny" },
+      { "name": "Tapu Koko Eve" },
+      { "name": "Stakataka Ash" }
+    ]
+  },
+  {
+    "phase": "Galar",
+    "cards": [
+      { "name": "Inteleon Belle" },
+      { "name": "Toxtricity Draco" },
+      { "name": "Polteageist Hank" },
+      { "name": "Alcremie Berry" },
+      { "name": "MoePeko" }
+    ]
+  },
+  {
+    "phase": "Paldea & Beyond",
+    "cards": [
+      { "name": "Meowscarada Chester" },
+      { "name": "Quaxly Gus" },
+      {
+        "name": "Lokix Fang",
+        "image": "assets/img/cards/lokix.png",
+        "type": "rare"
+      },
+      { "name": "Ceruledge Kenji" },
+      { "name": "Tinkaton Bibi" },
+      { "name": "Gimmighoul Griff" },
+      { "name": "Miraidon Stu" },
+      { "name": "Hydrapple Rosa" },
+      {
+        "name": "Pecharunt Willow",
+        "image": "assets/img/cards/pecharunt.png",
+        "type": "doublerare"
+      }
+    ]
+  },
+  {
+    "phase": "Trainers",
+    "cards": [{ "name": "Insert col trainers here" }]
+  },
+  {
+    "phase": "OC Brawlers!",
+    "cards": [{ "name": "TBA" }]
+  }
+]
